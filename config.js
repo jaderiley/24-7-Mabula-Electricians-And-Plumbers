@@ -2,7 +2,7 @@
    CONFIG — edit ONLY this file per client
    REBUILT FROM THE CLIENT'S OWN SITE: https://mabula247.co.za
    scraped 2026-08-11 by rebuild_from_existing.py
-   placeholder (Pexels stock) image slots: work-5.jpg
+   placeholder (Pexels stock) image slots: hero.jpg, og.jpg, band.jpg
    ============================================================ */
 
 const CONFIG = {
@@ -93,42 +93,42 @@ const CONFIG = {
         art:     "lockCylinderPick",
         fig:     "01 — Their work",
         title:   "From their own site",
-        caption: "House Rewiring – Neat Conduit Installation"
+        caption: "Electrical Emergency – Circuit Breaker Repair"
       },
       {
         image:   "images/work-2.jpg",
         art:     "lockCylinderPick",
         fig:     "02 — Their work",
         title:   "From their own site",
-        caption: "Professional Leak Detection"
+        caption: "Burst Geyser Replacement"
       },
       {
         image:   "images/work-3.jpg",
         art:     "lockCylinderPick",
         fig:     "03 — Their work",
         title:   "From their own site",
-        caption: "Solar Geyser Installation on Roof"
+        caption: "House Rewiring – Neat Conduit Installation"
       },
       {
         image:   "images/work-4.jpg",
         art:     "lockCylinderPick",
         fig:     "04 — Their work",
         title:   "From their own site",
-        caption: "24/7 Mabula Team – Electrician and Plumber"
+        caption: "Professional Leak Detection"
       },
       {
         image:   "images/work-5.jpg",
         art:     "lockCylinderPick",
-        fig:     "05 — Geyser wiring",
-        title:   "Correctly wired",
-        caption: "Geyser connections installed to standard with the correct breaker size, isolator and earth bonding."
+        fig:     "05 — Their work",
+        title:   "From their own site",
+        caption: "Solar Geyser Installation on Roof"
       },
     ],
 
     // ─── PHOTO BAND ────────────────────────────────────────
     band: {
       image: "images/band.jpg",
-      alt:   "Burst Geyser Replacement",
+      alt:   "24-7 Mabula Electricians and Plumbers at work in Randburg",
       text:  "24/7 Mabula Electricians and Plumbers"
     },
 
